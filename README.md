@@ -1,3 +1,4 @@
+![logo](https://github.com/devashishtripathi769/devashishtripathi769/blob/main/Gemini_Generated_Image_vxhc5ivxhc5ivxhc.png)
 # 💫 Hi 👋, I'm Devashish Tripathi
 **A passionate Python Developer|| Problem Solver || DSA with Pyhton**
 
