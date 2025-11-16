@@ -1,4 +1,4 @@
-
+![logo](https://github.com/devashishtripathi769/devashishtripathi769/blob/main/IMG-20251116-WA0122.jpg)
 # 💫 Hi 👋, I'm Devashish Tripathi
 **A passionate Python Developer|| Problem Solver || DSA with Pyhton**
 
